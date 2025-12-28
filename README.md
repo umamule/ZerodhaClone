@@ -43,12 +43,8 @@ This project is built **for learning purposes only**.
 ## 📂 Project Structure
 
 ZerodhaClone/
-
 │
-
-├
-── dashboard/
-
+├── dashboard/
 │   ├── node_modules/
 │   ├── public/
 │   │   └── index.html
@@ -121,16 +117,22 @@ frontend/
 ├── package.json
 ├── package-lock.json
 
-2️⃣ Dashboard Setup
+
+2️⃣ ## Dashboard Setup
+
 cd Dashboard
+
 npm install
+
 npm start
 
 
-3️⃣ Frontend Setup
+3️⃣ ## Frontend Setup
 
 cd frontend
+
 npm install
+
 npm start
 
 📸 ## Screenshots

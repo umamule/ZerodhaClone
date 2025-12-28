@@ -131,3 +131,5 @@ npm start
 
 📸 Screenshots
 <img src="./image.png" alt="Zerodha Clone Dashboard" width="800"/>
+<video src="video.mp4" controls></video>
+

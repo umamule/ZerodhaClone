@@ -42,83 +42,15 @@ This project is built **for learning purposes only**.
 
 ## 📂 Project Structure
 
-ZerodhaClone/
-│
-├── dashboard/
-│   ├── node_modules/
-│   ├── public/
-│   │   └── index.html
-│   │
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Apps.js
-│   │   │   ├── BuyActionWindow.js
-│   │   │   ├── BuyActionWindow.css
-│   │   │   ├── Dashboard.js
-│   │   │   ├── DoughnoutChart.js
-│   │   │   ├── Funds.js
-│   │   │   ├── GeneralContext.js
-│   │   │   ├── Holdings.js
-│   │   │   ├── Home.js
-│   │   │   ├── Menu.js
-│   │   │   ├── Orders.js
-│   │   │   ├── Positions.js
-│   │   │   ├── Summary.js
-│   │   │   ├── TopBar.js
-│   │   │   ├── VerticalGraph.js
-│   │   │   └── WatchList.js
-│   │   │
-│   │   ├── data/
-│   │   │   └── data.js
-│   │   │
-│   │   ├── index.css
-│   │   └── index.js
-│   │
-│   ├── .gitignore
-│   ├── package.json
-│   └── package-lock.json
-│
-└── README.md
-frontend/
-│
-├── src/
-│   ├── landing_page/
-│   │   ├── home/
-│   │   │   └── Stats.js
-│   │   │
-│   │   ├── pricing/
-│   │   │   ├── Brokerage.js
-│   │   │   ├── Hero.js
-│   │   │   └── PricingPage.js
-│   │   │
-│   │   ├── products/
-│   │   │   ├── Hero.js
-│   │   │   ├── LeftSection.js
-│   │   │   ├── ProductsPage.js
-│   │   │   ├── RightSection.js
-│   │   │   └── Universe.js
-│   │   │
-│   │   ├── signup/
-│   │   │   └── SignUp.js
-│   │   │
-│   │   └── support/
-│   │       ├── CreateTicket.js
-│   │       ├── Hero.js
-│   │       └── SupportPage.js
-│   │
-│   ├── Footer.js
-│   ├── Navbar.js
-│   ├── OpenAccount.js
-│   │
-│   ├── index.css
-│   └── index.js
-│
-├── .gitignore
-├── package.json
-├── package-lock.json
+<img src="./image18.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image19.png" alt="Zerodha Clone Dashboard" width="800"/>
 
 
-2️⃣ ## Dashboard Setup
+## 1️⃣ Clone 
+`git clone https://github.com/umamule/ZerodhaClone`
+
+
+## 2️⃣  Dashboard Setup
 
 cd Dashboard
 
@@ -127,7 +59,7 @@ npm install
 npm start
 
 
-3️⃣ ## Frontend Setup
+## 3️⃣  Frontend Setup
 
 cd frontend
 
@@ -135,7 +67,7 @@ npm install
 
 npm start
 
-📸 ## Screenshots
+ ## 📸 Screenshots
 <img src="./image.png" alt="Zerodha Clone Dashboard" width="800"/>
 <img src="./image1.png" alt="Zerodha Clone Dashboard" width="800"/>
 <img src="./image2.png" alt="Zerodha Clone Dashboard" width="800"/>
@@ -156,7 +88,7 @@ npm start
 <img src="./image17.png" alt="Zerodha Clone Dashboard" width="800"/>
 <video src="./video.mp4" controls></video>
 
-🎯 ## Learning Outcomes
+## 🎯 Learning Outcomes
 
 Understanding full-stack architecture
 
@@ -170,7 +102,7 @@ React component structuring
 
 Secure backend development
 
-⚠️## Disclaimer
+## ⚠️ Disclaimer
 
 This project is not affiliated with Zerodha.
 
@@ -185,3 +117,4 @@ Uma Mule
 🌱 Learning MERN Stack & AI-based Applications
 
 
+Lot's of ❤️ from Uma 

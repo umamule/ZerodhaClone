@@ -129,7 +129,24 @@ cd frontend
 npm install
 npm start
 
-📸 Screenshots
+📸 ## Screenshots
 <img src="./image.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image1.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image2.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image3.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image4.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image5.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image6.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image7.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image8.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image9.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image10.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image11.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image12.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image13.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image14.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image16.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image15.png" alt="Zerodha Clone Dashboard" width="800"/>
+<img src="./image17.png" alt="Zerodha Clone Dashboard" width="800"/>
 <video src="./video.mp4" controls></video>
 

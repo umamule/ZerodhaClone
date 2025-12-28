@@ -7,12 +7,12 @@ function Team() {
             </div>
             <div className='row'>
                 <div className='col-5 founder-img text-center'>
-                    <img className='mb-5' src='media/images/nithinKamath.jpg' alt='image' style={{borderRadius: "100%",width:"60%"}} />
-                    <h5 >Nithin Kamath</h5>
+                    <img className='mb-5' src='media/images/umamule.png' alt='image' style={{width:"60%",marginTop:"-30px"}} />
+                    <h5 >Uma Mule</h5>
                     <p text-grey>Founder,CEO</p>
                 </div>  
                 <div className='col-7'>
-                    <p>Nithin bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.</p>
+                    <p>Uma Mule bootstrapped and founded Zerodha in 2010 to overcome the hurdles he faced during his decade long stint as a trader. Today, Zerodha has changed the landscape of the Indian broking industry.</p>
                     <p>He is a member of the SEBI Secondary Market Advisory Committee (SMAC) and the Market Data Advisory Committee (MDAC).</p>
                     <p>Playing basketball is his zen.</p>
                     <p>Connect on 

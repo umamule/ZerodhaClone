@@ -43,8 +43,12 @@ This project is built **for learning purposes only**.
 ## 📂 Project Structure
 
 ZerodhaClone/
+
 │
-├── dashboard/
+
+├
+── dashboard/
+
 │   ├── node_modules/
 │   ├── public/
 │   │   └── index.html
@@ -149,4 +153,33 @@ npm start
 <img src="./image15.png" alt="Zerodha Clone Dashboard" width="800"/>
 <img src="./image17.png" alt="Zerodha Clone Dashboard" width="800"/>
 <video src="./video.mp4" controls></video>
+
+🎯 ## Learning Outcomes
+
+Understanding full-stack architecture
+
+REST API design
+
+Authentication & authorization
+
+Stock trading workflow simulation
+
+React component structuring
+
+Secure backend development
+
+⚠️## Disclaimer
+
+This project is not affiliated with Zerodha.
+
+It is created only for educational purposes and does not perform real trading.
+
+## 🙋‍♀️ Author
+
+Uma Mule
+
+💻 Computer Science Engineer
+
+🌱 Learning MERN Stack & AI-based Applications
+
 
